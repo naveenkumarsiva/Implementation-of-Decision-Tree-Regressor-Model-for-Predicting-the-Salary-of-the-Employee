@@ -51,13 +51,17 @@ dt.predict([[5,6]])
 ## Output:
 
 DATA HEAD
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](o1.png)
+
 DATA INFO
 
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](o2.png)
+
 Data Head after applying LabelEncoder():
 
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](o3.png)
+
 MSE:
 
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](o4.png)
@@ -67,6 +71,7 @@ r2:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](o5.png)
 
 DATA PREDICTION:
+
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](o6.png)
 
 ## Result:
